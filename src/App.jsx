@@ -9,7 +9,7 @@ import  { PATH_HOME, PATH_POST, PATH_ABOUT } from "./constants/paths"
 function App() {
   return (
     <>
-      <nav className="mx-auto my-2 relative flex w-fit h-fit rounded-lg bg-white shadow-sm border border-slate-200 h-screen">
+      <nav className="mx-auto my-2 relative flex w-fit h-fit rounded-lg bg-white shadow-sm border border-slate-200">
         <div className="flex flex-row gap-6 px-3 py-3">
           <NavigationButton path={PATH_HOME} label="Home" />
           <NavigationButton path={PATH_POST} label="Posts" />
