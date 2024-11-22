@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useNavigate, useLocation } from "react-router-dom";
 
 export function NavigationButton({ path, label }) {
