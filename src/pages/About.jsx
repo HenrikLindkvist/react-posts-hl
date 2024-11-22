@@ -18,10 +18,10 @@ export function About() {
             </li>
             <li className="text-2xl text-gray-900 dark:text-white">
               react-hook-form
-            </li >
+            </li>
             <li className="text-2xl text-gray-900 dark:text-white">
               Zod form validation
-            </li>   
+            </li>
             <li className="text-2xl text-gray-900 dark:text-white">Tailwind</li>
           </ul>
         </div>
